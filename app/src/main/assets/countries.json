@@ -1,0 +1,162 @@
+{
+    "lu": {
+        "en": "Luxembourg",
+        "ru": "Люксембург"
+    },
+    "be": {
+        "en": "Belgium",
+        "ru": "Бельгия"
+    },
+    "bg": {
+        "en": "Bulgaria",
+        "ru": "Болгария"
+    },
+    "ch": {
+        "en": "Switzerland",
+        "ru": "Швейцария"
+    },
+    "cz": {
+        "en": "Czech Republic",
+        "ru": "Чехия"
+    },
+    "dk": {
+        "en": "Denmark",
+        "ru": "Дания"
+    },
+    "hu": {
+        "en": "Hungary",
+        "ru": "Венгрия"
+    },
+    "me": {
+        "en": "Montenegro",
+        "ru": "Черногория"
+    },
+    "ru": {
+        "en": "Russia",
+        "ru": "Россия"
+    },
+    "al": {
+        "en": "Albania",
+        "ru": "Албания"
+    },
+    "by": {
+        "en": "Belarus",
+        "ru": "Беларусь"
+    },
+    "ee": {
+        "en": "Estonia",
+        "ru": "Эстония"
+    },
+    "fr": {
+        "en": "France",
+        "ru": "Франция"
+    },
+    "ie": {
+        "en": "Ireland",
+        "ru": "Ирландия"
+    },
+    "md": {
+        "en": "Moldova",
+        "ru": "Молдавия"
+    },
+    "no": {
+        "en": "Norway",
+        "ru": "Норвегия"
+    },
+    "rs": {
+        "en": "Serbia",
+        "ru": "Сербия"
+    },
+    "sk": {
+        "en": "Slovakia",
+        "ru": "Словакия"
+    },
+    "si": {
+        "en": "Slovenia",
+        "ru": "Словения"
+    },
+    "at": {
+        "en": "Austria",
+        "ru": "Австрия"
+    },
+    "ba": {
+        "en": "Bosnia and Herzegovina",
+        "ru": "Босния и Герцеговина"
+    },
+    "xk": {
+        "en": "Kosovo",
+        "ru": "Косово"
+    },
+    "lv": {
+        "en": "Latvia",
+        "ru": "Латвия"
+    },
+    "nl": {
+        "en": "Netherlands",
+        "ru": "Нидерланды"
+    },
+    "po": {
+        "en": "Poland",
+        "ru": "Польша"
+    },
+    "pt": {
+        "en": "Portugal",
+        "ru": "Португалия"
+    },
+    "ro": {
+        "en": "Romania",
+        "ru": "Румыния"
+    },
+    "se": {
+        "en": "Sweden",
+        "ru": "Швеция"
+    },
+    "gr": {
+        "en": "Greece",
+        "ru": "Греция"
+    },
+    "es": {
+        "en": "Spain",
+        "ru": "Испания"
+    },
+    "fi": {
+        "en": "Finland",
+        "ru": "Финляндия"
+    },
+    "hr": {
+        "en": "Croatia",
+        "ru": "Хорватия"
+    },
+    "is": {
+        "en": "Iceland",
+        "ru": "Исландия"
+    },
+    "it": {
+        "en": "Italy",
+        "ru": "Италия"
+    },
+    "gb": {
+        "en": "United Kingdom",
+        "ru": "Великобритания"
+    },
+    "lt": {
+        "en": "Lithuania",
+        "ru": "Литва"
+    },
+    "mk": {
+        "en": "Macedonia",
+        "ru": "Македония"
+    },
+    "de": {
+        "en": "Germany",
+        "ru": "Германия"
+    },
+    "tr": {
+        "en": "Turkey",
+        "ru": "Турция"
+    },
+    "ua": {
+        "en": "Ukraine",
+        "ru": "Украина"
+    }
+}
